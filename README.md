@@ -2,5 +2,5 @@
 
 * Prerequisites:
   
-- Electron
+- Express
 - Socket.io
